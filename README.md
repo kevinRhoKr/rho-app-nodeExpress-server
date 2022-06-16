@@ -1,7 +1,7 @@
 # rho-app-nodeExpress-server
  backend for rho-kevin-sample-app
 
-This is the RESTful api backend server for rho-kevin-sample-app (https://github.com/kevinRhoKr/rho-kevin-sample-app).
+This is the RESTful api backend server developed using Express.js for rho-kevin-sample-app (https://github.com/kevinRhoKr/rho-kevin-sample-app).
 
 Supports CRUD.
 
