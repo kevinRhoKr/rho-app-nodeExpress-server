@@ -87,7 +87,7 @@ app.get("/posts", async (req, res) => {
     const query = await pool.query(
       "SELECT post_id, f_name, l_name, date, body, email FROM appUsers NATURAL JOIN apposts"
     );
-    res.json(query.rows);
+    res.json(query.rows.reverse());
   } catch (err) {
     console.log(err.message);
   }
