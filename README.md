@@ -7,5 +7,4 @@ Supports CRUD.
 
 It is connected to a postgres db. 
 The relational schema diagram of the database is shown on the pptx file in this repository. 
-
-![relational schema db](https://user-images.githubusercontent.com/22257075/174130141-5997ed52-15c1-44e0-94f3-4b0f57d3a2a4.png)
+![relational_schema_diagram](https://user-images.githubusercontent.com/22257075/174131490-df8e0dfd-3bb0-46ba-8fae-e2b747fb5f8a.png)
